@@ -1,0 +1,25 @@
+#fejlec ul li{
+    display: inline-grid;
+    margin-right: 80px;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+#kep div{
+    display: list-item;
+    margin-bottom: 20px;
+}
+#fejlec, #kep{
+    text-align: center;
+}
+#fejlec{
+    background-color: burlywood;
+    height: 50px;
+}
+#kep{
+    background-color: beige;
+}
+html{
+    background-color: burlywood;
+}
